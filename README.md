@@ -4,9 +4,6 @@
 
 ## By Aaron Akbari-Mort, Isaac Shoman
 
-[Link to project- Aaron](https://aaronakbarimort.github.io/monsters),
-[Link to project - Isaac](https://ishoman.github.io/monsters)
-
 ## Description
 
 Updated version (v2) of Kitty Cookie Monster. A simple HTML, and CSS site for a fake animal website to practice CSS class styling.
