@@ -50,3 +50,11 @@ a {
   text-decoration: none;
   font-weight: bolder;
 }
+.light-background {
+  background-color: white;
+  color: black;
+}
+.dark-background {
+  background-color: black;
+  color: white;
+}
